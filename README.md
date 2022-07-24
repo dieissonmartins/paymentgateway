@@ -10,7 +10,7 @@ add below code to your ``composer.json`` file
  "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Sharifur/paymentgateway.git"
+            "url": "https://github.com/dieissonmartins/paymentgateway.git"
         }
     ],
 ````
