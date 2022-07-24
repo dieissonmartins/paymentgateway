@@ -1,6 +1,6 @@
 # paymentgateway
 
-> General information about this package.
+> General information about this package
 ## Installation For laravel 8x
 
 ##### Configure Your Composer.json file to install this package
